@@ -7,7 +7,7 @@ public class Main {
         int bonus = amount / x;
 
         System.out.println (bonus);
-        
+
 
 
         }
