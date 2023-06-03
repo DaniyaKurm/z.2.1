@@ -27,6 +27,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-out
 .idea
+out
 z.2.1.iml
+
